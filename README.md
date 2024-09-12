@@ -36,22 +36,13 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
 <br>
-<p>
-
-</p>
-<br>
-
-<div align="left">
-&nbsp;
-</div>
-
-
-
 <div align="center">
+ <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdul-mutallif&show_icons=true&locale=en&border_radius=5&order=3" height="220" alt="abdulmutallif" />
+ <img align="left" src="https://streak-stats.demolab.com?user=abdul-mutallif&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-mutallif&show_icons=true&locale=en&layout=compact" alt="abdulmutallif" />
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=abdul-mutallif&show_icons=true&locale=en" alt="abdulmutallif" />
- <br>
- <img src="https://streak-stats.demolab.com?user=abdul-mutallif&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+ 
+ 
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Abdul-Mutallif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul-Mutallif&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  /> -->
 </div>
@@ -60,17 +51,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-<div align="center">
-
-</div>
