@@ -15,7 +15,7 @@
 
  </div>
  <div align="left"> 
-  <a href="abdul.mutallif.pvt@gmail.com">
+  <a href="https://mail.google.com/mail/u/1/?view=cm&fs=1&to=abdul.mutallif.pvt@gmail.com&tf=1" target="_blank">
    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://https://linkedin.com/in/abdul-mutallif" target="_blank">
